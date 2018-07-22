@@ -37,7 +37,6 @@ public class JsonViewer extends LinearLayout {
     private int textColorNull;
     @ColorInt
     private int textColorNumber;
-    private Object json;
 
     public JsonViewer(Context context) {
         super(context);
@@ -99,8 +98,6 @@ public class JsonViewer extends LinearLayout {
 
         if (!(json instanceof JSONArray || json instanceof JSONObject))
             throw new RuntimeException("JsonViewer: JSON must be a instance of org.json.JSONArray or org.json.JSONObject");
-
-        this.json = json;
 
         super.setOrientation(VERTICAL);
 
