@@ -1,7 +1,7 @@
 # android-json-view
 Andorid JSON Viewer
 
-With this library you can display long JSON in a android view 
+With this library you can display long JSON in a android view, you can click on a key to hide and show the sub tree.
 
 [![](https://jitpack.io/v/pvarry/android-json-viewer.svg)](https://jitpack.io/#pvarry/android-json-viewer)
 
