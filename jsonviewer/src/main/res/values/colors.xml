@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jsonViewer_textColorString">#008000</color>
+    <color name="jsonViewer_textColorNumber">#ee422e</color>
+    <color name="jsonViewer_textColorBool">#ff8c00</color>
+    <color name="jsonViewer_textColorNull">#808080</color>
+</resources>
