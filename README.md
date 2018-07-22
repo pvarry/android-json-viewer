@@ -20,7 +20,7 @@ allprojects {
 - **App level `build.gradle`**
 ```gradle
 dependencies {
-    implementation 'com.github.pvarry:android-json-viewer:v1.0'
+    implementation 'com.github.pvarry:android-json-viewer:v1.1'
 }
 ```
 
@@ -38,7 +38,7 @@ dependencies {
 <dependency>
     <groupId>com.github.pvarry</groupId>
     <artifactId>android-json-viewer</artifactId>
-    <version>v1.0</version>
+    <version>v1.1</version>
 </dependency>
 ```
 
